@@ -32,7 +32,7 @@
 
 ✔ Pronouns: ***He/His*** or (as I prefer) **TeamMaker** 😉 <br>
 ✔ I’m currently learning **NodeJS** & **ReactJS** <br>
-<!-- ✔ I’m willing to collaborate with **Open - Source Organisations** <br> -->
+✔ I’m willing to collaborate with **Open - Source Organisations** <br>
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 ✔ Fun fact : *At The time of Stress coding, I go in half sleeping mode* 
 
