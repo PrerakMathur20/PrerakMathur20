@@ -70,8 +70,3 @@ Hack-O-Fiesta | 2021 - [Check out!](https://github.com/PrerakMathur20/Hack-o-fie
 ### Finally here's a Joke for you 😜 :
 
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=PrerakMathur20&count_private=true&theme=monokai&showicons=true)]()
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PrerakMathur20&langs_count=5&theme=onedark)]()
