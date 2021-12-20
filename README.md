@@ -16,7 +16,7 @@
 </p>
 <p align="center">
   <em>
-  And you are Visiter Number : <br> <img src="https://profile-counter.glit ch.me/PrerakMathur20/count.svg"><br><br>
+  And you are Visiter Number : <br> <img src="https://profile-counter.glitch.me/PrerakMathur20/count.svg"><br><br>
     This is ME, Prerak Mathur, a <b>Sophomore</b> at <a href="https://iiitl.ac.in"> <b>Indian Institute of Information Technology</b>, Lucknow</a>. <br><br>
     A budding <b>Full-Stack Web Developer</b> and a <b>Competitive Programming Enthusiast</b>&nbsp;&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
