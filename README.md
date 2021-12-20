@@ -16,7 +16,7 @@
 </p>
 <p align="center">
   <em>
-  And you are Visiter Number : <br> <img src="https://profile-counter.glitch.me/PrerakMathur20/count.svg"><br><br>
+  And you are Visiter Number : <br> <img src="https://profile-counter.glit ch.me/PrerakMathur20/count.svg"><br><br>
     This is ME, Prerak Mathur, a <b>Sophomore</b> at <a href="https://iiitl.ac.in"> <b>Indian Institute of Information Technology</b>, Lucknow</a>. <br><br>
     A budding <b>Full-Stack Web Developer</b> and a <b>Competitive Programming Enthusiast</b>&nbsp;&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
@@ -30,21 +30,21 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**_Talking about Personal Stuffs..._**
 
 ✔ Pronouns: **_He/His_** or (as I prefer) **TeamMaker** 😉 <br>
-✔ I’m currently on my way to become a **MERN Stack** developer. <br>
+✔ I’m currently a **MERN Stack** developer. <br>
 
 <!-- ✔ I’m willing to collaborate with any **Open - Source contribution**<br> -->
 
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 ✔ Fun fact : _At The time of Stress coding, I go in half sleeping mode._
 
-<details>
+<!-- <details>
  <summary> Hackathons 💻: </summary>
 
  <br/>
 
 Hack-O-Fiesta | 2021 - [Check out!](https://github.com/PrerakMathur20/Hack-o-fiesta-21)<br/>
 
- </details>
+ </details> -->
 
 <p align="left">
   <hr>
@@ -53,10 +53,9 @@ Hack-O-Fiesta | 2021 - [Check out!](https://github.com/PrerakMathur20/Hack-o-fie
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status" style="margin: 3px;"/></p>
 
 
-
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=PrerakMathur20&count_private=true&theme=onedark&showicons=true)]()
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PrerakMathur20&theme=dark)](https://git.io/streak-stats)
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PrerakMathur20&langs_count=5&theme=onedark)]()
 
