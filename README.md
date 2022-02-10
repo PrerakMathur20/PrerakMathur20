@@ -31,9 +31,7 @@
 
 ✔ Pronouns: **_He/His_** or (as I prefer) **TeamMaker** 😉 <br>
 ✔ I’m currently a **MERN Stack** developer. <br>
-
-<!-- ✔ I’m willing to collaborate with any **Open - Source contribution**<br> -->
-
+<!-- ✔ I’m willing to collaborate with any **Open - Source contribution** -->
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 ✔ Fun fact : _At The time of Stress coding, I go in half sleeping mode._
 
