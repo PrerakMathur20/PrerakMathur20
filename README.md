@@ -53,11 +53,11 @@ Hack-O-Fiesta | 2021 - [Check out!](https://github.com/PrerakMathur20/Hack-o-fie
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status" style="margin: 3px;"/></p>
 
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=PrerakMathur20&count_private=true&theme=onedark&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=PrerakMathur20&count_private=true&theme=dracula&showicons=true)]()
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PrerakMathur20&theme=onedark)](https://git.io/streak-stats)
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PrerakMathur20&langs_count=5&theme=onedark&layout=compact)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PrerakMathur20&langs_count=5&theme=slateorange&layout=compact)]()
 
 
 <hr>
