@@ -24,11 +24,6 @@
     <b>excel</b>&nbsp.
   </em> 
   <br><br>
-
-<iframe src="https://open.spotify.com/embed/track/4PTG3Z6ehGkBFwjybzWkR8?utm_source=generator" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media" style="border-radius:10px"></iframe>
-
-
-
 <hr>
 </p>
 
