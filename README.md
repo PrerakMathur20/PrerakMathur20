@@ -16,7 +16,7 @@
 </p>
 <p align="center">
   <em>
-  <!-- And you are Visiter Number : <br> <img src="https://profile-counter.glitch.me/PrerakMathur20/count.svg"><br><br> -->
+  And you are Visiter Number : <br> <img src="https://profile-counter.glitch.me/PrerakMathur20/count.svg"><br><br>
     This is ME, Prerak Mathur, a <b>Sophomore</b> at <a href="https://iiitl.ac.in"> <b>Indian Institute of Information Technology</b>, Lucknow</a>. <br><br>
     A  <b>Full-Stack Web Developer</b> and a <b>Competitive Programming Enthusiast</b>,&nbsp;&nbsp;<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and seeks a <b>platform</b> to 
@@ -24,6 +24,8 @@
     <b>excel</b>&nbsp.
   </em> 
   <br><br>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4PTG3Z6ehGkBFwjybzWkR8?utm_source=generator" width="50%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
 <hr>
 </p>
 
@@ -53,11 +55,10 @@ Hack-O-Fiesta | 2021 - [Check out!](https://github.com/PrerakMathur20/Hack-o-fie
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status" style="margin: 3px;"/></p>
 
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=PrerakMathur20&count_private=true&theme=dracula&showicons=true)]()
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PrerakMathur20&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=PrerakMathur20&theme=gruvbox&hide_border=true" />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PrerakMathur20&theme=onedark)](https://git.io/streak-stats)
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PrerakMathur20&langs_count=5&theme=slateorange&layout=compact)]()
+[![PrerakMathur20 Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=PrerakMathur20&custom_title=Prerak%20Mathur's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://www.github.com/PrerakMathur20)
 
 
 <hr>
