@@ -55,8 +55,7 @@ Hack-O-Fiesta | 2021 - [Check out!](https://github.com/PrerakMathur20/Hack-o-fie
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status" style="margin: 3px;"/></p>
 
 
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=PrerakMathur20&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=PrerakMathur20&theme=gruvbox&hide_border=true" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=PrerakMathur20&show_icons=true&theme=gruvbox&hide_border=true" />&nbsp;<img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=PrerakMathur20&theme=gruvbox&hide_border=true" />
 
 <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=PrerakMathur20&custom_title=Prerak%20Mathur's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)"/>
 
