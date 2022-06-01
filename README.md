@@ -2,7 +2,7 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 <hr>
-<!-- <h1 align="center">Hey, I'm Prerak Mathur  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>  -->
+<h1 align="center">Hey, I'm Prerak Mathur  <!-- <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>  -->
 <h3 align="center">Student | Web Developer | Programmer</h3>
 <p align="center">
  <a href = "mailto:mathur.prerak@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
