@@ -7,17 +7,20 @@
 <p align="center">
  <a href = "mailto:mathur.prerak@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/prerak-mathur-b8a14b15a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
-<a href="https://github.com/PrerakMathur20" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="@chowrasia_akash1" height="30" width="40" /></a>
-<!-- <a href="https://www.codechef.com/users/prerak20" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="akash_chowrasia" height="30" width="40" /></a> -->
-<a href="https://twitter.com/pm_hai_hum" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="akash_chowrasia" height="30" width="40" /></a>
+<a href="https://github.com/PrerakMathur20" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="@prerakmathur20" height="30" width="40" /></a>
+<a href="https://prerakmathur.in/" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/abstract.svg" alt="PrerakMathur" height="30" width="40" />
+</a>
+<a href="https://twitter.com/pm_hai_hum" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Prerak Mathur" height="30" width="40" /></a>
 
 </p>
 <hr>
+
 </p>
 <p align="center">
   <em>
-  Profile Visits : <br> <img src="https://profile-counter.glitch.me/PrerakMathur20/count.svg"><br><br>
-    This is ME, Prerak Mathur, a <b> Junior </b> at <a href="https://iiitl.ac.in"> <b>Indian Institute of Information Technology</b>, Lucknow</a>.<br> Google Summer of Code 2022 Contributor at <a href="https://github.com/scorelab"> ScoreLabs </a>. <br><br>
+  <!-- Profile Visits : <br> <img src="https://profile-counter.glitch.me/PrerakMathur20/count.svg"><br><br> -->
+    This is me, Prerak Mathur, a <b> Junior </b> at <a href="https://iiitl.ac.in"> <b>Indian Institute of Information Technology</b>, Lucknow.</a> <br><br>
     A  <b>Full-Stack Web Developer</b> and a <b>Competitive Programming Enthusiast</b>,&nbsp;&nbsp;<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and seeks a <b>platform</b> to 
     <b>grow </b>and 
@@ -31,9 +34,9 @@
 
 &nbsp;**_Talking about Personal Stuffs..._**
 
-✔ Pronouns: **_He/His_** or (as I prefer) **TeamMaker** 😉 <br>
-✔ I’m currently a **MERN Stack** developer. <br>
-✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
+✔ Pronouns: **_He/His_** or (as I prefer) **TeamMaker** 😉 
+✔ I’m currently a **MERN Stack** developer.
+✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉
 ✔ Fun fact : _At The time of Stress coding, I go in half sleeping mode._
 
 <!-- <details>
@@ -60,6 +63,6 @@ Hack-O-Fiesta | 2021 - [Check out!](https://github.com/PrerakMathur20/Hack-o-fie
 
 <hr>
 
-### Finally here's a Joke for you 😜 :
+### Cheer Up! 🤗
 
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
