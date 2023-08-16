@@ -35,7 +35,7 @@
 &nbsp;**_Talking about Personal Stuffs..._**
 
 ✔ Pronouns: **_He/His_** or (as I prefer) **TeamMaker** 😉 <br>
-✔ I’m currently a **MERN Stack** developer.<br>
+✔ I’m a **Full Stack** developer.<br>
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉 <br>
 ✔ Fun fact : _At The time of Stress coding, I go in half sleeping mode._
 
