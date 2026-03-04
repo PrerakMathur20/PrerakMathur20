@@ -3,12 +3,12 @@
 </p>
 <hr>
 <h1 align="center">Hey, I'm Prerak Mathur  <!-- <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>  -->
-<h3 align="center">Student | Web Developer | Programmer</h3>
+<h3 align="center">Software Developer | Frontend Engineer | Programmer</h3>
 <p align="center">
  <a href = "mailto:mathur.prerak@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/prerak-mathur-b8a14b15a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
+<a href="https://in.linkedin.com/in/prerakmathur20" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
 <a href="https://github.com/PrerakMathur20" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="@prerakmathur20" height="30" width="40" /></a>
-<a href="https://prerakmathur.in/" target="blank">
+<a href="https://prerak.tech/" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/abstract.svg" alt="PrerakMathur" height="30" width="40" />
 </a>
 <a href="https://twitter.com/pm_hai_hum" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Prerak Mathur" height="30" width="40" /></a>
@@ -20,8 +20,8 @@
 <p align="center">
   <em>
   <!-- Profile Visits : <br> <img src="https://profile-counter.glitch.me/PrerakMathur20/count.svg"><br><br> -->
-    This is me, Prerak Mathur, a <b> Senior </b> at <a href="https://iiitl.ac.in"> <b>Indian Institute of Information Technology</b>, Lucknow.</a> <br><br>
-    A  <b>Full-Stack Web Developer</b> and a <b>Competitive Programming Enthusiast</b>,&nbsp;&nbsp;<br>who is <b>obsessed</b>
+    This is me, Prerak Mathur, a <b> SDE </b> at <b>Walmart Global Tech</b>. <br><br>
+    A  <b>Full-Stack Developer</b> and a <b>Competitive Programming Enthusiast</b>,&nbsp;&nbsp;<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and seeks a <b>platform</b> to 
     <b>grow </b>and 
     <b>excel</b>&nbsp.
@@ -58,13 +58,12 @@ Hack-O-Fiesta | 2021 - [Check out!](https://github.com/PrerakMathur20/Hack-o-fie
  </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=PrerakMathur20&theme=gruvbox" />
-  <img width="49%" src="https://awesome-github-stats.azurewebsites.net/user-stats/PrerakMathur20?cardType=github&theme=gruvbox" />
+  <img width="55%" src="https://github-readme-activity-graph.vercel.app/graph?username=PrerakMathur20&theme=gruvbox" /><img width="44%" src="https://awesome-github-stats.azurewebsites.net/user-stats/PrerakMathur20?cardType=github&theme=gruvbox" />
 </p>
 
 
 <hr>
 
-### Cheer Up! 🤗
+### Cheer Up! 🙂
 
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" width="100%"/>
