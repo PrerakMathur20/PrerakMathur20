@@ -58,8 +58,8 @@ Hack-O-Fiesta | 2021 - [Check out!](https://github.com/PrerakMathur20/Hack-o-fie
  </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PrerakMathur20&show_icons=true&theme=gruvbox&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrerakMathur20&layout=compact&theme=gruvbox&hide_border=true" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=PrerakMathur20&theme=gruvbox" />
+  <img width="49%" src="https://awesome-github-stats.azurewebsites.net/user-stats/PrerakMathur20?cardType=github&theme=gruvbox" />
 </p>
 
 
